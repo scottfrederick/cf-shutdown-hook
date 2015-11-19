@@ -3,4 +3,4 @@ applications:
 - name: shutdown
   memory: 512M
   instances: 1
-  path: build/libs/cf-shutdown-hook.war
+  path: build/libs/cf-shutdown-hook.jar
